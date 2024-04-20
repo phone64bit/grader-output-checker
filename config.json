@@ -1,0 +1,14 @@
+{
+    "input_directory": "./input",
+    "input_filetype": "in",
+    "output_directory": "./output",
+    "output_filetype": "out",
+    "checker_directory": "./checker",
+    "filetype": "cpp",
+    "languages": [
+        { "name": "cpp", "exec": "g++ --std=c++14 a.cpp -o a" }
+    ],
+    "settings": {
+        "time": "1000"
+    }
+}
